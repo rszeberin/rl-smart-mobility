@@ -1,4 +1,4 @@
-Reinforcement Learning for Graph Optimization in Public Transport Systems
+## Reinforcement Learning for Graph Optimization in Public Transport Systems
 
 This repository contains our contribution to a research project at the Laboratory of Information, Networking and Communication Sciences that aims to develop methods to optimize public transportation networks, with special regards to the least accessible nodes in the network. 
 
@@ -9,6 +9,9 @@ It is desirable to train models (Graph Neural Networks) on several cities and us
 
 
 In the repository:
+
 •	Reinforcement_Learning_for_Graph_Optimization.pdf: a detailed report on the theoretical background and our contribution 
+
 •	Nx edge generator.ipynb: a simple demo algorithm that generates edges with different constraints to simulate adding new bus lines to a transport network for example
+
 •	Graph_Opt: a graph optimization framework proposed by Hanjun Dai et al. with several contributions from our part 
